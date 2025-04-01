@@ -1,4 +1,4 @@
-# NV Updater
+# NV Updater (Project is discontinued for now)
 
 NV Updater is a free tool designed to simplify the process of updating Nvidia GeForce graphics card drivers. 
 
