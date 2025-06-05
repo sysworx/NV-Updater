@@ -24,8 +24,10 @@ NV Updater is a free tool designed to simplify the process of updating Nvidia Ge
 
 ## Alternatives
 
-* **GeForce Experience:** The official method from NVIDIA, but it requires an NVIDIA account and installs GeForce Experience.
+* **NVIDIA App:** The official method from NVIDIA, but it requires an NVIDIA account and installs GeForce Experience.
 * **Manual Driver Update:** You can also download the driver directly from the NVIDIA website and install it manually. This requires more technical knowledge.
+* **TinyNvidiaUpdateChecker:** Sweet tool from ElPumpo (https://github.com/ElPumpo/TinyNvidiaUpdateChecker)
+* **NVCleanstall:** Updater and slimmer (https://www.techpowerup.com/download/techpowerup-nvcleanstall)
 
 ## Conclusion
 
@@ -35,7 +37,3 @@ NV Updater is a convenient alternative for users who want to update their Nvidia
 
 Please note that driver updates can sometimes lead to problems. Always create a backup before updating drivers, and use NV Updater at your own risk.
 
-## Further Information
-
-* **NV Updater Website:** [https://www.sys-worx.net/nv-updater-eng/](https://www.sys-worx.net/nv-updater-eng/)
-* **NV Updater FAQ:** [https://www.sys-worx.net/nv-updater-faq-de/](https://www.sys-worx.net/nv-updater-faq-de/)
